@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ising Model Simulator",
+  "description": "Интерактивная 2D симуляция модели Изинга с визуализацией фазовых переходов, графиками намагниченности и AI-анализом состояний.",
+  "requestFramePermissions": []
+}
